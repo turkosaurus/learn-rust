@@ -1,5 +1,7 @@
 # learn-rust
-getting started notes and some projects
+
+
+"If the compiler is happy, I am happy." - Tris, No Boilerplate ([source](https://youtu.be/CJtvnepMVAU?t=423))
 
 ## resources
 link | type | description
