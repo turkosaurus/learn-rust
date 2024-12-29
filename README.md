@@ -9,6 +9,8 @@ https://sh.rustup.rs
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
+Restart your shell to have access to `rustup` and `cargo`.
+
 ## resources
 link | type | description
 :--- | :---: | :--- |
