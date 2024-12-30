@@ -14,6 +14,7 @@ Restart your shell to have access to `rustup` and `cargo`.
 ## resources
 link | type | description
 :--- | :---: | :--- |
+https://doc.rust-lang.org/book/ | book | "the book"
 https://www.rust-lang.org/ | website | official rust site
 https://sh.rustup.rs | website | install script
 [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) | blog | introduction
